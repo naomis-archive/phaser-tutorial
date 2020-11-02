@@ -1,14 +1,13 @@
-# Project Name
+# Phaser.js Tutorial
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Project Description
+My version of the Phaser.js tutorial.
 
 ## Live Version
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/phaser-tutorial)
 
 ## Feedback and Bugs
 
